@@ -34,6 +34,7 @@
 						<environment>Sandbox</environment>
 						<workers>1</workers>
 						<workerType>Micro</workerType>
+						<objectStoreV2>true</objectStoreV2>
 						<applicationName>test-app-service</applicationName>
 						<password>Mulesoft@123</password>
 						<muleVersion>4.3.0</muleVersion>

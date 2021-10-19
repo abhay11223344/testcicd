@@ -30,14 +30,15 @@
 				<extensions>true</extensions>
 				<configuration>
 					<cloudHubDeployment>
-						<username>abhay11223344</username>
-						<environment>Sandbox</environment>
+						<username>abhay334455</username>
+						<environment>Design</environment>
 						<workers>1</workers>
 						<workerType>Micro</workerType>
 						<objectStoreV2>true</objectStoreV2>
 						<applicationName>test-app-service</applicationName>
 						<password>Mulesoft@123</password>
 						<muleVersion>4.3.0</muleVersion>
+						<businessGroupId>9db749ad-73ea-4258-94c3-7d113a95d122</businessGroupId>
 					</cloudHubDeployment>
 				</configuration>
 			</plugin>
@@ -55,6 +56,12 @@
 			<groupId>org.mule.connectors</groupId>
 			<artifactId>mule-sockets-connector</artifactId>
 			<version>1.2.2</version>
+			<classifier>mule-plugin</classifier>
+		</dependency>
+		<dependency>
+			<groupId>org.mule.connectors</groupId>
+			<artifactId>mule-jms-connector</artifactId>
+			<version>1.7.5</version>
 			<classifier>mule-plugin</classifier>
 		</dependency>
 	</dependencies>

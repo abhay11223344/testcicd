@@ -35,7 +35,7 @@
 						<workers>1</workers>
 						<workerType>Micro</workerType>
 						<objectStoreV2>true</objectStoreV2>
-						<applicationName>test-app-service</applicationName>
+						<applicationName>test-app-service-11</applicationName>
 						<password>Mulesoft@123</password>
 						<muleVersion>4.4.0</muleVersion>
 						<businessGroupId>9db749ad-73ea-4258-94c3-7d113a95d122</businessGroupId>

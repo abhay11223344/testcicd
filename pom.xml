@@ -31,7 +31,7 @@
 				<configuration>
 					<cloudHubDeployment>
 						<username>abhay334455</username>
-						<environment>Design</environment>
+						<environment>Sandbox</environment>
 						<workers>1</workers>
 						<workerType>Micro</workerType>
 						<objectStoreV2>true</objectStoreV2>
